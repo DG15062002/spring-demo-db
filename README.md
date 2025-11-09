@@ -1,6 +1,6 @@
 <h1>Steps to run this on local</h1>
 
-Create a db service <a href="https://console.aiven.io/signup?referral_code=c42meszphuy91p9k4p5a">
+Create a db service <a href="https://console.aiven.io/signup?referral_code=c42meszphuy91p9k4p5a"> here </a>
 
 To run the application, the following changes are needed in the local session : 
 ```export DB_URL=jdbc:mysql://HOST:PORT/DATABASE?sslMode=REQUIRED```
